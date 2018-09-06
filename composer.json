@@ -1,0 +1,7 @@
+{
+  "require": {
+    "php-ffmpeg/php-ffmpeg": "0.12.*",
+    "james-heinrich/getid3": "1.9.15",
+    "php-kit/ext-pdo": "1.1.3"
+  }
+}
